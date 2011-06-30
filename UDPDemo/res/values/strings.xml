@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, UDPDemoMain!</string>
+    <string name="app_name">UDPDemo</string>
+    <string name="main_server_button_string">Server</string>
+    <string name="main_client_button_string">Client</string>
+    <string name="blank"></string>
+    <string name="client_main_connect_button_string">Connect</string>
+    <string name="server_main_start_button_label">Start</string>
+    <string name="server_main_send_button_label">Send</string>
+</resources>
